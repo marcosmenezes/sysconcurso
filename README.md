@@ -6,5 +6,4 @@ Os scripts PHP podem ser baixados para estudos como também publicação online 
 - Home
 - Cadastro
 - Login (session)
-- Área do usuário. (session)
-- 
+- Área do usuário (session)
